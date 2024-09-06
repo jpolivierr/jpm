@@ -1,0 +1,1 @@
+JPM (Java Project Manager) is a powerful CLI tool designed to streamline the creation and management of Java-based applications. It simplifies project setup, dependency management, and build processes, helping developers efficiently handle their Java projects from start to finish.
